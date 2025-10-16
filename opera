@@ -1,0 +1,2 @@
+curl -L -o OperaSetup.exe https://get.opera.com/ftp/pub/opera/desktop/108.0.5067.29/win/Opera_108.0.5067.29_Setup.exe
+OperaSetup.exe /silent /install
